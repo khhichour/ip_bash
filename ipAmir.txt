@@ -1,29 +1,564 @@
-# Obfuscated by Py Compile
-# Created by HTR-TECH (https://github.com/htr-tech)
-# Instagram : @tahmid.rayat
-Obfuscated by Py Compile
-# Created by HTR-TECH (https://github.com/htr-tech)
-# Instagram : @tahmid.rayat
-Obfuscated by Py Compile
-# Created by HTR-TECH (https://github.com/htr-tech)
-# Instagram : @tahmid.rayat
-Obfuscated by Py Compile
-# Created by HTR-TECH (https://github.com/htr-tech)
-# Instagram : @tahmid.rayatObfuscated by Py Compile
-# Created by HTR-TECH (https://github.com/htr-tech)
-# Instagram : @tahmid.rayatObfuscated by Py Compile
-# Created by HTR-TECH (https://github.com/htr-tech)
-# Instagram : @tahmid.rayatObfuscated by Py Compile
-# Created by HTR-TECH (https://github.com/htr-tech)
-# Instagram : @tahmid.rayatObfuscated by Py Compile
-# Created by HTR-TECH (https://github.com/htr-tech)
-# Instagram : @tahmid.rayatObfuscated by Py Compile
-# Created by HTR-TECH (https://github.com/htr-tech)
-# Instagram : @tahmid.rayatObfuscated by Py Compile
-# Created by HTR-TECH (https://github.com/htr-tech)
-# Instagram : @tahmid.rayatObfuscated by Py Compile
-# Created by HTR-TECH (https://github.com/htr-tech)
-# Instagram : @tahmid.rayat
+echo "clear" 
+echo "amiroux  "
+echo ""
+echo "🔍📱 ip tRago "
+echo "■━■━■━■━■━■━■━■━■━■━■━■━■━■━■━■━■━■━■━■━■━■━■━■"
+echo "[☣] Baseband Version ⟿ $(getprop gsm.version.baseband)"
+echo "[☣] Kernel      ⟿ $(uname -r)"
+echo "[☣] Android SDK   ‎⟿ $(getprop ro.build.version.sdk)"
+echo "[☣] Android Version  ⟿ $(getprop ro.build.version.release)"
+echo "[☣] Device Model   ⟿ $(getprop ro.product.model)"
+echo "[☣] Brand      ‎⟿ $(getprop ro.product.brand)"
+echo "[☣] Model      ‎⟿ $(getprop ro.product.model)"
+echo "[☣] Product      ⟿ $(getprop ro.build.product)"
+echo "[☣] Hardware     ⟿ $(getprop ro.hardware)"
+echo "[☣] GPU       ‎⟿ $(getprop ro.opengles.version)"
+echo "[☣] CPU        ⟿ $(getprop ro.product.cpu.abi)"
+echo "■━■━■━■━■━■━■━■━■━■━■━■━■━■━■━■━■━■━■━■━■━■━■━■"
+echo "
+┌───── •✧✧• ─────┐
+-fastIp: amiroux
+└───── •✧✧• ─────┘"
+echo ""
+echo ""
+echo "
+░░░░▄▄▄▄▀▀▀▀▀▀▀▀▄▄▄▄▄▄
+░░░░█░░░░▒▒▒▒▒▒▒▒▒▒▒▒░░▀▀▄
+░░░█░░░▒▒▒▒▒▒░░░░░░░░▒▒▒░░█
+░░█░░░░░░▄██▀▄▄░░░░░▄▄▄░░░█
+░▀▒▄▄▄▒░█▀▀▀▀▄▄█░░░██▄▄█░░░█
+█▒█▒▄░▀▄▄▄▀░░░░░░░░█░░░▒▒▒▒▒█
+█▒█░█▀▄▄░░░░░█▀░░░░▀▄░░▄▀▀▀▄▒█
+░█▀▄░█▄░█▀▄▄░▀░▀▀░▄▄▀░░░░█░░█
+░░█░░▀▄▀█▄▄░█▀▀▀▄▄▄▄▀▀█▀██░█
+░░░█░░██░░▀█▄▄▄█▄▄█▄████░█
+░░░░█░░░▀▀▄░█░░░█░███████░█
+░░░░░▀▄░░░▀▀▄▄▄█▄█▄█▄█▄▀░░█
+░░░░░░░▀▄▄░▒▒▒▒░░░░░░░░░░█
+░░░░░░░░░░▀▀▄▄░▒▒▒▒▒▒▒▒▒▒░█
+░░░░░░░░░░░░░░▀▄▄▄▄▄░░░░░█
 
-import zlib,base64
-exec(zlib.decompress(base64.b64decode("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")))
+"
+echo ""
+sleep 1
+echo " [•] ip test ( Permanent ) ✔ "
+(
+settings put system MOUSEX_AIM_LEVEL 100%
+settings put system MOUSE_AIM_SENSITIVTY_SWITCH true
+settings put system MOUSE_FILTERING 0.0
+settings put system MOUSE_GRADUALLY_SWITCH_WHILE_AIMING true
+settings put system MOUSE_SENSITIVITY 100.50
+settings put system MOUSE_SMOOTHING ENABLE
+settings put system MOUSE_SWITCH_AFTER_AIM_ANIMATION_ENDS true
+settings put system MOUSE_SWITCH_IMIDIATELLY_AIMING_STARTS true
+settings put system MOUSE_VERTICAL_SENSITIVITY_MULTIPLIER 100.15
+settings put system MOUSEX_ef_variadic_parameters co-ordinate
+settings put system MOUSE_gestures ASCII
+settings put system MultitouchMinDistance 1px
+settings put system MultitouchSettleInterval 0.1ms
+settings put system MultitouchMinDistance 1px
+settings put system DisplayCutoutEmulationCornerOverlay.velocity 000.1
+settings put system DisplayCutoutEmulationWaterfallOverlay true
+settings put system DisplayCutoutEmulationCornertouchScreen 1
+settings put system DisplayCutoutEmulationDoubleOverlay true
+settings put system DisplayCutoutEmulationHoleOverlay Scroll_fixed
+settings put system PointerGesture speed
+settings put system PointerVelocityControlParameters 1
+settings put system PowerbuttonTapping 0
+settings put system PressureForID 1
+settings put system SensitivyX AimBot
+settings put system Set_gestures OEM
+settings put system Slide_control_screen light
+settings put system settings put system Swipe tftype4
+settings put system SwipeMaxWidthRatio 1
+settings put system SwipeTransitionAngleCosine 5.0
+settings put system TOUCH.POINT.CALIBRATION OEM
+settings put system TOUCH.PRESSURE.CALIBRATION performance
+settings put system TOUCH.PRESSURE.CELEBRATION performance
+settings put system TOUCH.SIZE.CALIBRATION geometric
+settings put system TOUCH.SPEED.CALIBRATION adapt
+settings put system TOUCH.TXT.CALIBRATION performance
+settings put system TOUCH_DIRECTINAL_AIMING 100
+settings put system TOUCH_DUMMY Bots
+settings put system TOUCH_FreeLook 100
+settings put system TapDrag tftype4
+settings put system TapInterval 0.1ms
+settings put system TapSlop tftype4
+settings put system TOUCHAndHold OEM
+settings put system TOUCHCount 100
+settings put system TOUCH_Heldinterval_Count auto
+settings put system TOUCHscreen_threshold 9
+settings put system TransformGesture Game_objetc
+settings put system VIB_FEEDBACK_MAGNITUDE 0
+settings put system VirtualKeyQuietTime 0
+settings put system ZoomSpeedRatio 1
+settings put system af.resampler.quality 255
+settings put system ro.sf.sample_size 2
+settings put system ro.surface_flinger.has_HDR_display false
+settings put system ro.surface_flinger.has_wide_color_display false
+settings put system ro.surface_flinger.max_events_per_sec 300
+settings put system ro.surface_flinger.max_frame_buffer_acquired_buffers 3
+settings put system ro.surface_flinger.running_without_sync_framework true
+settings put system ro.surface_flinger.set_idle_timer_ms 100
+settings put system ro.surface_flinger.set_touch_timer_ms 50
+settings put system ro.surface_flinger.use_color_management true
+settings put system ro.surfaceflinger.hardwareacceleration 1
+settings put system ro.sys.fw.dex2oat_thread_count 4
+settings put system ro.sys.sdcardfs true
+settings put system ro.sys_fw.use_mlc 1
+settings put system ro.sys_fw.use_power_workqueues 1
+settings put system ro.sys_fw_use_power_saving_animations true
+settings put system ro.sys_fw_use_sched_mc_power_savings 1
+settings put system ro.sys_fw_use_smart_battery true
+settings put system ro.sys_power_mode 1
+settings put system ro.telephony.call_ring.delay 0
+settings put system ro.treble.enabled false
+settings put system touch.accelerate.hw 1
+settings put system touch.accelerated.hw 1
+settings put system touch.assistant.enabled 0
+settings put system touch.coverage.cabration box
+settings put system touch.coverage.calibration tftype4
+settings put system touch.deviceType touchScreen
+settings put system touch.distance.calibration tftype4
+settings put system touch.distance.scale physical
+settings put system touch.filter.level 2
+settings put system touch.filter.path /system/lib/touchfilter/tftype4.so
+settings put system touch.filter.tftype4.AccDrag interpolated
+settings put system touch.filter.tftype4.AccSize 8
+settings put system touch.filter.tftype4.AddInitialAcc 1
+settings put system touch.filter.tftype4.AssumedDelayFactorA -11.71
+settings put system touch.filter.tftype4.AssumedDelayFactorB 10.53
+settings put system touch.filter.tftype4.AssumedDelayFactorC -0.81
+settings put system touch.filter.tftype4.DefaultInitialAcc 0
+settings put system touch.filter.tftype4.DirectivePriorityFactor 0.9
+settings put system touch.filter.tftype4.DragRangeSize 3
+settings put system touch.filter.tftype4.Enabled 1
+settings put system touch.filter.tftype4.GapResolver 0.9
+settings put system touch.filter.tftype4.LatestSpeedWeight 0.12
+settings put system touch.filter.tftype4.MaxNumTouch 10
+settings put system touch.filter.tftype4.MaxSpeed 0.055
+settings put system touch.filter.tftype4.NoAccDistanceMax 950.0
+settings put system touch.filter.tftype4.NoAccDistanceMin 15.0
+settings put system touch.filter.tftype4.NoAccRate 0.3
+settings put system touch.filter.tftype4.OrgSize 8
+settings put system touch.filter.tftype4.PStablePositionFactor 0
+settings put system touch.filter.tftype4.PositionFactorA 0.2
+settings put system touch.gestureMode pointer
+settings put system touch.gesture_mode spots
+settings put system touch.input_flinger.calibration physical
+settings put system touch.isHardware.accelerated true
+settings put system touch.isHw 1
+settings put system touch.orientation.calibration tftype4
+settings put system touch.orientationAware 1
+settings put system touch.pressure.calibration amplitude
+settings put system touch.pressure.scale 0.0125
+settings put system touch.pressure.source touchScreen
+settings put system touch.scale 5
+settings put system touch.scroll.calibration physical
+settings put system touch.size.bias -13.924837
+settings put system touch.size.calibration diameter
+settings put system touch.size.isSummed 0
+settings put system touch.size.scale 32.69
+settings put system touch.speed.calibration speed
+settings put system touch.surface_flinger.calibration physical
+settings put system touch.toolSize.areaBias 0
+settings put system touch.toolSize.areaScale 1
+settings put system touch.toolSize.calibration geometric
+settings put system touch.toolSize.isSummed 0
+settings put system touch.toolSize.linearBias 0
+settings put system touch.toolSize.linearScale 1
+settings put system touch.touchSize.calibration geometric
+settings put system touch.txt.calibration speed
+settings put system touchCount 100
+settings put system touch_FreeLook 100
+settings put system touch_action pan_x
+settings put system touch_boost 1
+settings put system touch_click_start 0.01
+settings put system touch_directinal_aiming 100
+settings put system touch_fixed_sensitivity true
+settings put system touch_leave fast
+settings put system touch_oem true
+settings put system touch_speed 100
+settings put system touch_stocks OEM
+settings put system touchboost 1
+settings put system touchscreen_double_tap_speed 100
+settings put system touchscreen_gesture_mode 1
+settings put system touchscreen_hovering 0
+settings put system touchscreen_min_press_time 30
+settings put system touchscreen_pointer_speed 100
+settings put system touchscreen_pressure_calibration 4096
+settings put system touchscreen_sensitivity 100
+settings put system touchscreen_sensitivity_mode 3
+settings put system touchscreen_sensitivity_scale 99.9
+settings put system touchswipedeadzone 5
+settings put system tty_mode 0
+settings put system touch.toolSize.areaScale 22
+settings put system touch.toolSize.areaBias 0
+settings put system touch.toolSize.linearScale 9.2
+settings put system touch.toolSize.linearBias 0
+settings put system TapDragInterval 0
+settings put system KeyRepeatDelay 0
+settings put system KeyRepeatTimeout 0
+settings put system VirtualKeyQuietTime 0
+settings put system acceleration 2527200
+settings put system ZoomSpeedRatio 1
+settings put system lowThreshold 0
+settings put system highThreshold 0
+settings put system SwipeTransitionAngleCosine 3.6
+settings put system DragMinSwitchSpeed 2527200
+settings put system MultitouchMinDistance 1px
+settings put system MultitouchSettleInterval 0.1ms
+settings put system TapInterval 0.1ms
+settings put system TapSlop 1px
+settings put system touch.coverage.calibration geometric
+settings put system touch.deviceType touchScreen
+settings put system touch.distance.calibration geometric
+settings put system touch.distance.scale 0
+settings put system touch.gestureMode spots
+settings put system touch.orientation.calibration geometric
+settings put system touch.pressure.calibration geometric
+settings put system touch.size.calibration geometric
+settings put system touch.size.isSummed 0
+settings put system touch.size.scale 1
+settings put system touch.speed.calibration geometric
+settings put system touch.txt.calibration geometric
+settings put system touch_directinal_aiming 100
+settings put system touch.assistant.enabled 0
+settings put system touchCount 100
+settings put system touch_FreeLook 100
+settings put system type.touch_speed true
+settings put system view.touch_slop 5
+settings put system MovementSpeedRatio 0.8
+settings put system accuracy.control 100
+settings put system adaptive_touch_sensitivity 1
+settings put system PointerGesture true
+settings put system PointerVelocityControlParameters  1
+settings put system PowerbuttonTapping 0
+settings put system PressureForID 0.01
+settings put system QuietInterval 0.1ms
+settings put global preferred_network_mode 9
+settings put global wifi_sleep_policy 2
+settings put global tether_dun_required 0
+settings put global stay_on_while_plugged_in 3
+settings put system radio.data_stall_treshold 1
+settings put system radio.sib11_thresh 31
+settings put system radio.better_ps_reception 1
+settings put global preferred_network_mode 12
+settings put system radio.sib1_thresh 31
+settings put system radio.sib3_thresh 31
+settings put system radio.sib16_thresh 31
+settings put secure allow_heat_cooldown_schedule true
+settings put secure allow_heat_cooldown_always 1
+settings put secure heat_cooldown_schedule 5s
+settings put secure allow_more_heat_value 30
+)> /dev/null 2>&1
+echo " [•] blood ip address is thesame( on )✔ "
+(
+for app in $(cmd package list packages -a | cut -f 2 -d ":"); do
+device_config put game_overlay "$app" mode=1,downscaleFactor=0.3:mode=3,downscaleFactor=0.3
+cmd device_config put game_overlay "$app" mode=1,downscaleFactor=0.3:mode=3,downscaleFactor=0.3
+cmd game mode performance "$app"
+device_config put game_overlay "$app" mode=2,downscaleFactor=0.9:mode=2,downscaleFactor=0.9
+cmd device_config put game_overlay "$app" mode=2,downscaleFactor=0.9:mode=2,downscaleFactor=0.9
+done
+)> /dev/null 2>&1
+echo " [•] test ip new:2.456.01.01 ✔ ( on ) "
+(
+setprop debug.enable.turbo.internet 1
+setprop debug.hwui.renderer skiagl
+setprop debug.renderengine.backend skiaglthreaded 
+setprop debug.egl.force_msaa 0
+setprop debug.egl.force_fxaa 0
+setprop debug.egl.force_taa 0
+setprop debug.egl.force_ssaa 0
+setprop debug.egl.force_smaa 0
+setprop debug.gr.swapinterval 0
+setprop debug.hwui.fps_divisor 1
+setprop debug.cpurend.vsync false
+setprop debug.gpurend.vsync false
+setprop debug.duration_tap 1
+setprop debug.touchscreen.latency.scale 0,5
+setprop debug.sf.late.sf.duration 2000000
+setprop debug.sf.use_phase_offsets_as_durations 1
+setprop debug.sf.late.app.duration 6000000
+setprop debug.sf.frame_rate_multiple_threshold 165
+setprop debug.sf.earlyGl.sf.duration 16600000
+setprop debug.sf.earlyGl.app.duration 16600000
+setprop debug.sf.early.app.duration 16600000
+setprop debug.sf.early.sf.duration 16600000
+setprop debug.egl.hw 1
+setprop debug.ro.min_pointer_dur 1
+setprop debug.view.scroll_friction 0
+setprop debug.windowsmgr.max_events_per_sec 300
+setprop debug.duration_tap 50
+setprop debug.sf.use_phase_offsets_as_durations 1
+setprop debug.sf.late.sf.duration 10500000
+setprop debug.adreno.disable_backend_affinity
+setprop debug.mali.disable_backend_affinity true
+setprop debug.dexopt.bg-dexopt speed-profile
+setprop debug.dexopt.shared speed
+setprop dalvik.vm.usejit true
+setprop debug.sf.gpu_freq_index 7
+setprop debug.sf.high_fps_early_gl_phase_offset_ns 100000
+setprop debug.sf.high_fps_early_phase_offset_ns 100000
+setprop debug.sf.high_fps_late_app_phase_offset_ns 100000
+setprop debug.sf.high_fps_late_sf_phase_offset_ns 100000
+setprop debug.hwui.profile.maxframes 120
+setprop debug.native.dump 0
+setprop debug.hwc.force_gpu 1
+setprop debug.hwc.force_cpu 1
+setprop debug.renderengine.backend skiagl
+setprop debug.graphics.gpu.profiler.support true
+setprop debug.systemuicompilerfilter speed
+setprop debug.sensor.hal 0
+setprop debug.egl.force_msaa false
+setprop debug.egl.force_fxaa false
+setprop debug.egl.force_taa false
+setprop debug.rs.max-threads 8
+setprop debug.rs.min-threads 8
+setprop debug.rs.max-threads 8
+setprop debug.rs.min-threads 8
+setprop debug.sf.gpu_freq_index 7
+setprop debug.thermal_zone.cpu_hotplug_control 2
+setprop debug.thermal_zone.cpu_threshold_temp 90
+setprop debug.thermal_zone.gpu_hotplug_control 2
+setprop debug.thermal_zone.gpu_threshold_temp 95
+setprop debug.thermal_zone.camera_hotplug_control 2
+setprop debug.thermal_zone.camera_threshold_temp 85
+setprop debug.thermal_zone.battery_hotplug_control 2
+setprop debug.thermal_zone.battery_threshold_temp 60
+setprop debug.thermal_zone.display_hotplug_control 2
+setprop debug.thermal_zone.display_threshold_temp 80
+cmd power set-fixed-performance-mode-enabled true 
+setprop debug.sf.disable_client_composition_cache 1
+setprop debug.sf.enable_advanced_sf_phase_offset 1
+setprop debug.sf.enable_gl_backpressure 1
+setprop debug.sf.predict_hwc_composition_strategy 0
+setprop debug.sf.high_fps_early_gl_phase_offset_ns -2000000
+setprop debug.sf.high_fps_early_phase_offset_ns -4000000
+setprop debug.sf.high_fps_late_app_phase_offset_ns 1000000
+setprop debug.sf.high_fps_late_sf_phase_offset_ns -2000000
+setprop debug.sf.latch_unsignaled 1
+setprop debug.sf.treat_170m_as_sRGB 1
+setprop debug.sf.gpu_freq_index 7
+setprop debug.sf.cpu_freq_index 7
+setprop debug.sf.memory_freq_index 7
+setprop debug.graphics.gpu.profiler.support true
+setprop debug.systemuicompilerfilter speed
+setprop debug.sensor.hal 0
+setprop debug.egl.force_msaa false
+setprop debug.egl.force_fxaa false
+setprop debug.egl.force_taa false
+setprop debug.composition.type mdp
+setprop debug.mdpcomp.maxlayer 999
+setprop debug.fb.rgb565 1
+setprop debug.rs.max-threads 8
+setprop debug.rs.min-threads 8
+setprop debug.performance.tuning 1
+setprop debug.gpu.scheduler_pre.emption 1
+setprop debug.gpu.scheduler_pre.emption 1
+setprop debug.performance_schema_digests_size 9950000
+setprop debug.sf.max_igbp_list_size 0
+setprop debug.sf.predict_hwc_composition_strategy 1
+setprop debug.sf.enable_transaction_tracing true
+setprop debug.sf.vsync_reactor_ignore_present_fences false
+setprop debug.gralloc.gfx_ubwc_disable false
+setprop debug.mdpcomp.mixedmode.disable false
+setprop debug.hwc.fbsize XRESxYRES
+setprop debug.sdm.support_writeback 1
+setprop debug.sdm.disable_skip_validate 1
+setprop debug.sf_frame_rate_multiple_fences 999
+setprop debug.sf.early.app.duration 16600000
+setprop debug.sf.early.sf.duration 16600000
+setprop debug.sf.earlyGl.app.duration 16600000
+setprop debug.sf.earlyGl.sf.duration 16600000
+setprop debug.sf.high_fps_early_gl_phase_offset_ns 9000000
+setprop debug.sf.high_fps_early_phase_offset_ns 6100000
+setprop debug.sf.hw 1
+setprop debug.sf.perf_fps_early_gl_phase_offset_ns 12000000
+setprop debug.performance_schema 1
+setprop debug.performance_schema_max_memory_classes 387
+setprop debug.performance_schema_max_socket_classes 10
+setprop debug.composition.type mdp
+setprop debug.composition.type2 gpu
+setprop debug.gr.swapinterval -1
+setprop debug.hwui.disabledither false
+setprop debug.sf.hw 1
+setprop debug.sf.enable_hgl 1
+setprop debug.disable.hwacc 0
+setprop debug.disable_sched_boost true
+setprop debug.javafx.animation.fullspeed true
+setprop debug.rs.default-CPU-driver 1
+setprop debug.MB.inner.running 57
+setprop debug.MB.running 16
+setprop debug.hwui.render_dirty_regions false
+setprop debug.hwc.bq_count 3
+setprop debug.multicore.processing 1
+setprop debug.hwui.disable_draw_reorder true
+setprop debug.perfhudes 1
+setprop debug.sf.enable_hgl 1
+setprop debug.heat_suppression 0
+setprop debug.dev.addfree 4
+setprop debug.gfx.driver 1
+setprop debug.sf.showfps 0
+setprop debug.egl.hw 1
+setprop debug.hwui.fps_divisor -1
+setprop debug.cpurend.vsync false
+setprop debug.gpurend.vsync false
+setprop debug.power_management_mode pref_max
+settings put global activity_manager_constants max_cached_processes=2048
+settings put system pointer_speed 7
+setprop debug.mdpcomp.maxpermixer 0
+setprop debug.performance.tuning 1
+setprop debug.hal_client_domain hal_vperf
+setprop debug.cpuprio 7
+setprop debug.gpuprio 7
+setprop debug.hwui.target_cpu_time_percent 100
+setprop debug.hwui.target_gpu_time_percent 100
+setprop debug.renderthread.reduceopstasksplitting true
+setprop debug.renderer.process_compound true
+setprop debug.performance.disturb false
+setprop debug.sf.frame_rate_multiple_threshold 999
+setprop debug.sf_frame_rate_multiple_fences 999
+setprop debug.egl.force_msaa false
+setprop debug.egl.force_fxaa false
+setprop debug.egl.force_taa false
+setprop debug.egl.force_ssaa false
+setprop debug.egl.force_smaa false
+setprop debug.egl.native_scaling false
+)> /dev/null 2>&1
+echo " [•] fast ip ( 167ping )"
+(
+settings put system pointer_speed 7
+settings put global low_power 0
+settings put global low_power_sticky 1
+settings put global NON_DISPATCHABLE_HANDLE 25
+settings put global job_scheduler_constants null
+settings put global wifi_scan_always_enabled 0
+settings put global ota_disable_automatic_update 0
+settings put global low_power_exceptions 1
+settings put global native_memtag_sync 1
+settings put global native_heap_zero_init 1
+settings put global gpu_renderer_policy 1
+settings put global gpu_composition_policy 1
+settings put global gpu_render_policy 1
+settings put global enable_hw_2d 1
+settings put global enable_hw_3d 1
+settings put global low_power 0
+settings put global low_power_sticky 0
+settings put global NON_DISPATCHABLE_HANDLE 25
+settings put global job_scheduler_constants null
+settings put global wifi_scan_always_enabled 0
+settings put global ota_disable_automatic_update 0
+settings put global low_power_exceptions 1
+settings put global native_memtag_sync 1
+settings put global native_heap_zero_init 1
+settings put global gpu_renderer_policy 1
+settings put global gpu_composition_policy 1
+settings put global gpu_render_policy 1
+settings put global enable_hw_2d 1
+settings put global enable_hw_3d 1
+settings put global job_scheduler_constants 1
+settings put global animator_duration_scale 0.5
+settings put global transition_animation_scale 0.5
+settings put global window_animation_scale 0.5
+settings put global zen_mode 0
+settings put global zen_mode_config_etag -200000
+settings put global activity_manager_constants 1
+settings put global fstrim_mandatory_interval 1
+settings put global dev.pm.dyn_samplingrate 1
+settings put global hwui.disable_vsync true
+settings put global force_hw_ui true
+settings put global persist.sampling_profiler 0
+settings put global persist.sys.pugerable_assets 1
+settings put global performance.mode high
+settings put system user_refresh_rate 120
+settings put system peak_refresh_rate 120
+settings put system thermal_limit_refresh_rate 120
+settings put system pointer_speed 7
+settings put secure location_providers_allowed -network
+settings put secure location_providers_allowed -gps,network
+settings put secure location_providers_allowed -gps
+settings put secure location_providers_allowed -network
+settings put global network_avoid_bad_wifi 0
+settings put global network_scoring_ui_enabled 0
+settings put global tcp_default_init_rwnd 20
+settings put global wifi_country_code GB
+settings put global wifi_frequency_band 0
+settings put global wifi_max_dhcp_retry_count 0
+settings put global wifi_framework_scan_interval_ms 0
+settings put global wifi_supplicant_scan_interval_ms 5000
+settings put global wifi_watchdog_poor_network_test_enabled 0
+settings put global netstats_enabled 1
+settings put global connectivity_metrics_buffer_size 20000
+settings put --user 0 global wifi_score_params rssi2=-95:-85:-73:-60,rssi5=-85:-82:-70:-57
+settings put --user 0 global wifi_coverage_extend_feature_enabled 0
+settings put --user 0 global wifi_networks_available_notification_on 0
+settings put --user 0 global wifi_poor_connection_warning 0
+settings put --user 0 global wifi_scan_always_enabled 0
+settings put --user 0 global wifi_scan_throttle_enabled 0
+settings put --user 0 global wifi_verbose_logging_enabled 0
+settings put --user 0 global wifi_suspend_optimizations_enabled 1
+settings put --user 0 global wifi_wakeup_enabled 0
+settings put --user 0 global sysui_powerui_enabled 1
+settings put --user 0 global ble_scan_always_enabled 0
+)> /dev/null 2>&1
+echo " [•] fast phone (on) ✔ "
+cacheswipper () {
+nohup rm -rf /data/media/0/Android/data/*/cache/*
+nohup rm -rf /data/data/*/cache
+nohup rm -rf /data/data/*/*cache
+nohup rm -rf /data/data/*/*cache*
+nohup rm -rf /data/data/*/cache*
+nohup rm -rf /data/data/*/code_cache
+nohup rm -rf /data/data/*/code_cache*
+nohup rm -rf /data/data/*/*code_cache
+nohup rm -rf /data/data/*/*code_cache*
+nohup rm -rf /data/data/*/app_ads_cache
+nohup rm -rf /data/media/0/Android/data/*/cache*/*
+nohup rm -rf /data/media/0/Android/data/*/*cache/*
+nohup rm -rf /data/media/0/Android/data/*/*cache*/
+nohup rm -rf /data_mirror/data_ce/null/0/*/cache
+nohup rm -rf /data_mirror/data_ce/null/0/*/cache*
+nohup rm -rf /data_mirror/data_ce/null/0/*/*cache*
+nohup rm -rf /data_mirror/data_ce/null/0/*/cache*
+nohup rm -rf /data_mirror/data_de/null/0/*/cache
+nohup rm -rf /data_mirror/data_de/null/0/*/cache*
+nohup rm -rf /data_mirror/data_de/null/0/*/*cache*
+nohup rm -rf /data_mirror/data_de/null/0/*/cache*
+nohup rm -rf /data_mirror/data_ce/null/0/*/cache_code
+nohup rm -rf /data_mirror/data_ce/null/0/*/cache_code*
+nohup rm -rf /data_mirror/data_ce/null/0/*/*cache_code*
+nohup rm -rf /data_mirror/data_ce/null/0/*/cache_code*
+nohup rm -rf /data_mirror/data_de/null/0/*/cache_code
+nohup rm -rf /data_mirror/data_de/null/0/*/cache_code*
+nohup rm -rf /data_mirror/data_de/null/0/*/*cache_code*
+nohup rm -rf /data_mirror/data_de/null/0/*/cache_code*
+pm trim-caches 999G
+}
+cacheswipper > /dev/null 2>&1
+echo " Amiroux-root-Ip"
+echo ""
+echo " [•■□□□□□□□□□•] 10 % "
+sleep 1
+echo " [•■■□□□□□□□□•] 20 % "
+sleep 1
+echo " [•■■■□□□□□□□•] 30 % "
+sleep 2
+echo " [•■■■■□□□□□□•] 40 % "
+sleep 2
+echo " [•■■■■■□□□□□•] 50 % "
+sleep 1
+echo " [•■■■■■■□□□□•] 60 % "
+sleep 2
+echo " [•■■■■■■■□□□•] 70 % "
+sleep 1
+echo " [•■■■■■■■■□□•] 90 % "
+sleep 1
+echo " [•■■■■■■■■■□•] 95 % "
+sleep 3
+echo " [•■■■■■■■■■■•] 100 % "
+cmd notification post -S bigtext -t '𝗧𝗢𝗨𝗖𝗛 IP And MACRO' 'Tag' '𝗦𝗨𝗖𝗖𝗘𝗦𝗦𝗙𝗨𝗟𝗟𝗬 𝗜𝗡𝗦𝗧𝗔𝗟𝗟𝗘𝗗 ' > /dev/null 2>&1
+echo " <> ip new start (on) "
+sleep 3
+am start -a android.intent.action.VIEW -d https://www.facebook.com/profile.php?id=100038469920090=1 >/dev/null 2>&1 & >/dev/null 2>&1
